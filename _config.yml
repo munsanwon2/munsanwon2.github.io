@@ -20,6 +20,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Jkez9KgAAAAJ&hl=ko"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/munsanwon2"
 
 defaults:
   - scope:

@@ -32,6 +32,6 @@ Google Scholar: <https://scholar.google.com/citations?user=Jkez9KgAAAAJ&hl=ko>
 
 ## 🥇 Awards {#awards}
 
-3\. 암호분석경진대회 (Cryptanalysis Contest), 장려상 (Participation Prize) — 2025
-2\. Academic Excellence Award — 2024 2nd Semester (B.S.)
-1\. 암호분석경진대회 (Cryptanalysis Contest), 우수상 (Excellence Prize) — 2024
+3\. 암호분석경진대회 (Cryptanalysis Contest), 장려상 (Participation Prize) — 2025  
+2\. Academic Excellence Award — 2024 2nd Semester (B.S.)  
+1\. 암호분석경진대회 (Cryptanalysis Contest), 우수상 (Excellence Prize) — 2024  

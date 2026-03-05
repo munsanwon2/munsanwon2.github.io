@@ -11,7 +11,7 @@ plugins:
 
 author:
   name: "Won Kim"
-  avatar: "/assets/images/profile.jpg"
+  avatar: "/assets/images/김원2.jpg"
   bio: "Ph.D student at Korea University, working on Post-Quantum Cryptography."
   links:
     - label: "Email"

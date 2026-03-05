@@ -11,7 +11,7 @@ Hi! I am a Ph.D student at Korea University, working on Post-Quantum Cryptograph
 - 2025.03 - Now: Ph.D. at Korea University, Cybersecurity
 - 2019.03 - 2025.02: B.S. at Korea University, Mathematics
 
-## 🧠 Research Interests
+## 🧠 Research Interests {#research}
 
 - Isogeny-based cryptography
 - Mathematical aspects of post-quantum cryptology

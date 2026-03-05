@@ -19,10 +19,10 @@ Hi! I am a Ph.D student at Korea University, working on Post-Quantum Cryptograph
 
 ## 📚 Publications {#publications}
 
-3\. Blind Submission  
+3\. Blind Review  
    **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — Under Review, CRYPTO 2026
 
-2\. Blind Submission  
+2\. Blind Review  
    Jeonghwan Lee, **Won Kim**, Changmin Lee — Under Review, IEEE S&P 2026
 
 1\. SQIsign with Fixed-Precision Integer Arithmetic  

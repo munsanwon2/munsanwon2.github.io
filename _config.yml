@@ -1,0 +1,30 @@
+title: "Won Kim"
+description: "Ph.D. student at Korea University | Post-Quantum Cryptography"
+url: ""
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: "air"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Won Kim"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Ph.D student at Korea University, working on Post-Quantum Cryptography."
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:munsanwon2@korea.ac.kr"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Jkez9KgAAAAJ&hl=ko"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      classes: wide

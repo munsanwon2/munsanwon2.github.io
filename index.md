@@ -4,8 +4,6 @@ permalink: /
 ---
 
 Hi! I am a Ph.D student at Korea University, working on Post-Quantum Cryptography.  
-E-mail: [munsanwon2@korea.ac.kr](mailto:munsanwon2@korea.ac.kr)  
-Google Scholar: <https://scholar.google.com/citations?user=Jkez9KgAAAAJ&hl=ko>
 
 ---
 ## Career

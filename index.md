@@ -19,7 +19,7 @@ Hi! I am a Ph.D student at Korea University, working on Post-Quantum Cryptograph
 
 ## 📚 Publications {#publications}
 
-2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead
+2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead  
    **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — Under Review
 
 1\. SQIsign with Fixed-Precision Integer Arithmetic  

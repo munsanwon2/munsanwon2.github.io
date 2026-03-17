@@ -19,17 +19,18 @@ Hi! I am a Ph.D student at Korea University, working on Post-Quantum Cryptograph
 
 ## 📚 Publications {#publications}
 
-3\. Blind Review  
-   **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — Under Review, CRYPTO 2026
-
-2\. Blind Review  
-   Jeonghwan Lee, **Won Kim**, Changmin Lee — Under Review, IEEE S&P 2026
+2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead
+   **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — Under Review
 
 1\. SQIsign with Fixed-Precision Integer Arithmetic  
-   **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee — To appear at PKC 2026 ([preprint](https://eprint.iacr.org/2025/1649))
+   **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee — **PKC 2026**, **Best Paper Award** ([preprint](https://eprint.iacr.org/2025/1649))
 
 ## 🥇 Awards {#awards}
 
 3\. 암호분석경진대회 (Cryptanalysis Contest), 장려상 (Participation Prize) — 2025  
 2\. Academic Excellence Award — 2024 2nd Semester (B.S.)  
 1\. 암호분석경진대회 (Cryptanalysis Contest), 우수상 (Excellence Prize) — 2024  
+
+## 🔍 Reviews
+
+- PKC 2026

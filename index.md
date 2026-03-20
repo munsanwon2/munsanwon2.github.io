@@ -27,7 +27,7 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
 
 ## 🏆 Awards {#awards}
 
-4\. PKC, Best Paper Award - 2026
+4\. PKC, Best Paper Award - 2026  
 3\. 암호분석경진대회 (Cryptanalysis Contest), 장려상 (Participation Prize) — 2025  
 2\. Academic Excellence Award — 2024 2nd Semester (B.S.)  
 1\. 암호분석경진대회 (Cryptanalysis Contest), 우수상 (Excellence Prize) — 2024  

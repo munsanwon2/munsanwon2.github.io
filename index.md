@@ -3,7 +3,7 @@ title: "Won Kim"
 permalink: /
 ---
 
-Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptography and Post-Quantum Cryptography.  
+Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptography.  
 
 ---
 ## ⭐ Career
@@ -23,14 +23,14 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
    **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — Under Review
 
 1\. SQIsign with Fixed-Precision Integer Arithmetic  
-   **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee — **PKC 2026**, **Best Paper Award** ([preprint](https://eprint.iacr.org/2025/1649))
+   **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee — **PKC 2026**, **Best Paper Award** ([paper](https://eprint.iacr.org/2025/1649))
 
 ## 🏆 Awards {#awards}
 
-4\. PKC, Best Paper Award - 2026  
-3\. 암호분석경진대회 (Cryptanalysis Contest), 장려상 (Participation Prize) — 2025  
-2\. Academic Excellence Award — 2024 2nd Semester (B.S.)  
-1\. 암호분석경진대회 (Cryptanalysis Contest), 우수상 (Excellence Prize) — 2024  
+4\. Best Paper Award — PKC 2026  
+3\. Encouragement Prize — Cryptanalysis Contest 2025  
+2\. Academic Excellence Award — Korea University, 2024 2nd Semester  
+1\. Excellence Prize — Cryptanalysis Contest 2024  
 
 ## 🔍 Reviews
 

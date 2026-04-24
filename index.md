@@ -19,10 +19,10 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
 
 ## 📚 Publications {#publications}
 
-4\. SMART: Small-Modulus Adaptive Recovery for Scalable and Asynchronous Threshold Decryption
+4\. SMART: Small-Modulus Adaptive Recovery for Scalable and Asynchronous Threshold Decryption 
    Jonghyun Kim, **Won Kim**, Changmin Lee, Jeonghwan Lee — Under Review
 
-3\. Threshold PRISM Signature Schemes via Graph-Based Threshold Access Structures
+3\. Threshold PRISM Signature Schemes via Graph-Based Threshold Access Structures 
    Hyeonhak Kim, **Won Kim**, Changmin Lee — Under Review
 
 2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead  

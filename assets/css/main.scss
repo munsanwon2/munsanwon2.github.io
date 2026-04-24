@@ -18,19 +18,19 @@ search: false
 }
 
 .sidebar .author__avatar {
-  width: 220px !important;
-  height: 124px !important; /* 220 / 16 * 9 = 약 124 */
+  width: 240px !important;
+  height: 135px !important;
 }
 
 .sidebar .author__avatar img {
-  width: 220px !important;
-  height: 124px !important;
-  max-width: 220px !important;
+  width: 240px !important;
+  height: 135px !important;
+  max-width: 240px !important;
 
   object-fit: contain !important;
   object-position: center center !important;
 
-  border-radius: 8px !important; /* 원형 말고 살짝 둥근 사각형 */
+  border-radius: 8px !important;
   padding: 0 !important;
   border: 0 !important;
 

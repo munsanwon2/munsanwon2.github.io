@@ -8,7 +8,11 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Author profile photo: full image, left aligned, no blur */
+/* Author profile: photo, text, links same width */
+:root {
+  --author-block-width: 300px;
+}
+
 .sidebar,
 .sidebar:hover {
   opacity: 1 !important;
@@ -18,40 +22,32 @@ search: false
 .sidebar .author__content,
 .sidebar .author__urls-wrapper {
   display: block !important;
+  width: var(--author-block-width) !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+  padding-inline: 0 !important;
+  box-sizing: border-box !important;
 }
 
 .sidebar .author__avatar {
-  width: 100% !important;
-  height: auto !important;
-  margin: 0 0 1rem 0 !important;
-  text-align: left !important;
-  overflow: visible !important;
+  margin-bottom: 1rem !important;
 }
 
 .sidebar .author__avatar img {
   display: block !important;
-
-  width: 400px !important;
+  width: 100% !important;
   max-width: 100% !important;
-
   height: auto !important;
 
   border-radius: 8px !important;
-
   padding: 0 !important;
   border: 0 !important;
 
   opacity: 1 !important;
   filter: none !important;
-
-  margin: 0 !important;
 }
 
-.sidebar .author__content {
-  width: 100% !important;
-  padding-inline: 0 !important;
-}
-
-.sidebar .author__urls-wrapper {
-  width: 100% !important;
+.sidebar {
+  overflow-x: hidden !important;
 }

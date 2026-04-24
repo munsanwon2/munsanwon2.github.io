@@ -8,11 +8,32 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Author profile photo size */
+/* Author profile photo: 16:9, no crop, always clear */
+.sidebar {
+  opacity: 1 !important;
+}
+
+.sidebar:hover {
+  opacity: 1 !important;
+}
+
+.sidebar .author__avatar {
+  width: 220px !important;
+  height: 124px !important; /* 220 / 16 * 9 = 약 124 */
+}
+
 .sidebar .author__avatar img {
-  width: 240px !important;
-  height: 240px !important;
-  max-width: 240px !important;
-  object-fit: cover;
-  border-radius: 50%;
+  width: 220px !important;
+  height: 124px !important;
+  max-width: 220px !important;
+
+  object-fit: contain !important;
+  object-position: center center !important;
+
+  border-radius: 8px !important; /* 원형 말고 살짝 둥근 사각형 */
+  padding: 0 !important;
+  border: 0 !important;
+
+  opacity: 1 !important;
+  filter: none !important;
 }

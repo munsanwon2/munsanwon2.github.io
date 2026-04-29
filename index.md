@@ -6,7 +6,7 @@ permalink: /
 Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptography.  
 
 ---
-## ⭐ Career
+## 💼 Career
 
 - 2025.03 - Now: Ph.D. at Korea University, Cybersecurity
 - 2019.03 - 2025.02: B.S. at Korea University, Mathematics
@@ -40,6 +40,15 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
 3\. Encouragement Prize — Cryptanalysis Contest 2025  
 2\. Academic Excellence Award — Korea University, 2024 2nd Semester  
 1\. Excellence Prize — Cryptanalysis Contest 2024  
+
+## 📢 Talks {#talks}
+
+1\. SQIsign with Fixed-Precision Integer Arithmetic — PKC 2026
+
+## 🚀 Projects {#projects}
+
+2\. A Study on a Unified Framework for Concrete Security Analysis of Secure Multi-Party Computation: 2026.02 - Now  
+1\. Veritas Scholarship Project: Korea University, 2024.06 - 2025.02
 
 ## 🔍 Reviews
 

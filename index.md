@@ -44,7 +44,7 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
 
 ## 🚀 Projects {#projects}
 
-2\. A Study on a Unified Framework for Concrete Security Analysis of Secure Multi-Party Computation: 2026.02 - Now  
+2\. A Study on a Unified Framework for Concrete Security Analysis of Secure Multi-Party Computation: DGIST, 2026.02 - Now  
 1\. Veritas Scholarship Project: Korea University, 2024.06 - 2025.02
 
 ## 🔍 Reviews

@@ -19,6 +19,9 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
 
 ## 📚 Publications {#publications}
 
+5\. Compact Quaternion Algorithms for SQIsign  
+   **Won Kim**, Changmin Lee, Hyunwoo Yoo — On Progress
+
 4\. SMART: Small-Modulus Adaptive Recovery for Scalable and Asynchronous Threshold Decryption  
    Jonghyun Kim, **Won Kim**, Changmin Lee, Jeonghwan Lee — Under Review
 

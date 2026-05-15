@@ -19,6 +19,9 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
 
 ## 📚 Publications {#publications}
 
+6\. INKE: Fast Isogeny-Based PKE Using Intermediate Curves  
+   Hyeonhak Kim, **Won Kim**, Changmin Lee, Seokhie Hong, Suhri Kim, Sangjin Lee — On Progress
+
 5\. Threshold PRISM Signature Schemes via Graph-Based Threshold Access Structures  
    Hyeonhak Kim, **Won Kim**, Changmin Lee — Under Review
 

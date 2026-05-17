@@ -23,7 +23,7 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
    Hyeonhak Kim, **Won Kim**, Changmin Lee, Seokhie Hong, Suhri Kim, Sangjin Lee — On Progress
 
 5\. Threshold PRISM Signature Schemes via Graph-Based Threshold Access Structures  
-   Hyeonhak Kim, **Won Kim**, Changmin Lee — Under Review
+   Hyeonhak Kim, **Won Kim**, Changmin Lee — Under Review ([paper](https://eprint.iacr.org/2026/945))
 
 4\. Compact Quaternion Algorithms for SQIsign  
    **Won Kim**, Changmin Lee, Hyunwoo Yoo — On Progress
@@ -32,7 +32,7 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
    Jonghyun Kim, **Won Kim**, Changmin Lee, Jeonghwan Lee — Under Review 
 
 2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead  
-   **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — **CRYPTO 2026**
+   **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — **CRYPTO 2026** ([paper](https://eprint.iacr.org/2026/973))
 
 1\. SQIsign with Fixed-Precision Integer Arithmetic  
    **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee — **PKC 2026**, **Best Paper Award** ([paper](https://eprint.iacr.org/2025/1649))

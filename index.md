@@ -29,7 +29,7 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
    Hyeonhak Kim, **Won Kim**, Changmin Lee — Under Review ([paper](https://eprint.iacr.org/2026/945))
 
 4\. Compact Quaternion Algorithms for SQIsign  
-   **Won Kim**, Changmin Lee, Hyunwoo Yoo — Under Review
+   **Won Kim**, Changmin Lee, Hyunwoo Yoo — Under Review ([paper](https://eprint.iacr.org/2026/1031))
 
 3\. SMART: Small-Modulus Adaptive Recovery for Scalable and Asynchronous Threshold Decryption  
    Jonghyun Kim, **Won Kim**, Changmin Lee, Jeonghwan Lee — Under Review 

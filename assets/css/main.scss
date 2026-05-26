@@ -1,13 +1,3 @@
----
-# Only the main Sass file needs front matter
-search: false
----
-
-@charset "utf-8";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
 /* Author profile: photo, text, links same width */
 :root {
   --author-block-width: 250px;
@@ -18,26 +8,18 @@ search: false
   opacity: 1 !important;
 }
 
-.sidebar .author__avatar,
-.sidebar .author__content,
-.sidebar .author__urls-wrapper {
-  display: block !important;
-  width: var(--author-block-width) !important;
-  max-width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
-  padding-inline: 0 !important;
-  box-sizing: border-box !important;
-}
-
 .sidebar .author__avatar {
-  margin-bottom: 1rem !important;
+  display: table-cell !important;
+  width: 72px !important;
+  height: auto !important;
+  vertical-align: top !important;
+  overflow: visible !important;
 }
 
 .sidebar .author__avatar img {
   display: block !important;
-  width: 100% !important;
-  max-width: 100% !important;
+  width: 72px !important;
+  max-width: 72px !important;
   height: auto !important;
 
   border-radius: 8px !important;
@@ -46,6 +28,32 @@ search: false
 
   opacity: 1 !important;
   filter: none !important;
+}
+
+@media (min-width: 1024px) {
+  .sidebar .author__avatar,
+  .sidebar .author__content,
+  .sidebar .author__urls-wrapper {
+    display: block !important;
+    width: var(--author-block-width) !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+    padding-inline: 0 !important;
+    box-sizing: border-box !important;
+  }
+
+  .sidebar .author__avatar {
+    height: auto !important;
+    margin-bottom: 1rem !important;
+    overflow: visible !important;
+  }
+
+  .sidebar .author__avatar img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
 }
 
 .sidebar {

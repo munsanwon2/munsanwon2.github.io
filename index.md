@@ -26,13 +26,13 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
    Hyeonhak Kim, **Won Kim**, Changmin Lee, Suhri Kim, Seokhie Hong, Sangjin Lee — Under Review ([paper](https://eprint.iacr.org/2025/1458))
 
 5\. Threshold PRISM Signature Schemes via Graph-Based Threshold Access Structures  
-   Hyeonhak Kim, **Won Kim**, Changmin Lee — Under Review ([paper](https://eprint.iacr.org/2026/945))
+   Hyeonhak Kim, **Won Kim**, Changmin Lee — Preprint ([paper](https://eprint.iacr.org/2026/945))
 
 4\. Compact Quaternion Algorithms for SQIsign  
    **Won Kim**, Changmin Lee, Hyunwoo Yoo — Under Review ([paper](https://eprint.iacr.org/2026/1031))
 
 3\. SMART: Small-Modulus Adaptive Recovery for Scalable and Asynchronous Threshold Decryption  
-   Jonghyun Kim, **Won Kim**, Changmin Lee, Jeonghwan Lee — Under Review 
+   Jonghyun Kim, **Won Kim**, Changmin Lee, Jeonghwan Lee — Unpublished 
 
 2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead  
    **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — **CRYPTO 2026** ([paper](https://eprint.iacr.org/2026/973))

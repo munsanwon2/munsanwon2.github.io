@@ -63,4 +63,6 @@ Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptograp
 
 ## 🔍 Reviews
 
+### Sub-reviewers
 - PKC 2026
+- ISC 2026

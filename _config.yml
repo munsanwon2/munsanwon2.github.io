@@ -12,7 +12,7 @@ plugins:
 author:
   name: "Won Kim"
   avatar: "/assets/images/김원2.jpg"
-  bio: "Ph.D student at Korea University, working on Post-Quantum Cryptography."
+  bio: "Ph.D student, Cryptographer."
   links:
     - label: "Email"
       icon: "fas fa-envelope"

@@ -19,6 +19,7 @@ I am also working on a project about secure multi-party computation (MPC) with [
 - Isogeny-based cryptography
 - Mathematical aspects of post-quantum cryptology
 - E-voting protocol
+- Security of multi-party computation
 
 ## 📚 Publications {#publications}
 

@@ -23,9 +23,6 @@ I am also working on a project about secure multi-party computation (MPC) with [
 
 ## 📚 Publications {#publications}
 
-7\. Strongly Secure Asynchronous Threshold FHE from Shamir Secret Sharing  
-   **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — Unpublished
-
 6\. INKE: Isogeny-Based PKE Using Intermediate Curves  
    Hyeonhak Kim, **Won Kim**, Changmin Lee, Suhri Kim, Seokhie Hong, Sangjin Lee — Preprint ([paper](https://eprint.iacr.org/2025/1458))
 

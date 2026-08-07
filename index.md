@@ -64,7 +64,7 @@ I am also working on a project about secure multi-party computation (MPC) with [
 ## 🎁 Survices
 
 ### Organization
-- Isogeny Seminar Korea — 2026.08 - Now
+- Isogeny Seminar Korea: 2026.08 - Now
 
 ### Sub-reviewers
 - PKC 2026

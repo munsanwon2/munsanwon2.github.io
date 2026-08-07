@@ -61,7 +61,10 @@ I am also working on a project about secure multi-party computation (MPC) with [
 - 2025.09 - 2025.12: Modern Cryptography, T.A. at Korea University
 - 2025.09 - 2025.12: Mathematics of Smart Security, T.A. at Korea University
 
-## 🔍 Reviews
+## 🎁 Survices
+
+### Organization
+- Isogeny Seminar Korea — 2026.08 - Now
 
 ### Sub-reviewers
 - PKC 2026

@@ -29,7 +29,7 @@ I am also working on a project about secure multi-party computation (MPC) with [
    Hyeonhak Kim, **Won Kim**, Changmin Lee — Preprint ([paper](https://eprint.iacr.org/2026/945))
 
 4\. Compact Quaternion Algorithms for SQIsign  
-   **Won Kim**, Changmin Lee, Hyunwoo Yoo — Under Review ([paper](https://eprint.iacr.org/2026/1031))
+   **Won Kim**, Changmin Lee, Hyunwoo Yoo — Preprint ([paper](https://eprint.iacr.org/2026/1031))
 
 3\. SMART: Small-Modulus Adaptive Recovery for Scalable and Asynchronous Threshold Decryption  
    Jonghyun Kim, **Won Kim**, Changmin Lee, Jeonghwan Lee — Unpublished 

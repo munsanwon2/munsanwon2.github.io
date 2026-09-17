@@ -58,6 +58,8 @@ I am also working on a project about secure multi-party computation (MPC) with [
 
 ## 🏫 Teaching
 
+- 2026.09 - 2026.12: Modern Cryptography, T.A. at Korea University
+- 2026.09 - 2026.12: Mathematics of Smart Security, T.A. at Korea University  
 - 2025.09 - 2025.12: Modern Cryptography, T.A. at Korea University
 - 2025.09 - 2025.12: Mathematics of Smart Security, T.A. at Korea University
 

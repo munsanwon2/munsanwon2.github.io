@@ -74,5 +74,7 @@ I am also working on a project about secure multi-party computation (MPC) with [
 
 ## ✈️ Attendence
 
+4\. Asiacrypt 2026 — Hong Kong, China  
+3\. Isogenies of Abelian Varieties Applications to Post-Quantum Cryptography — Lausanne, Switzerland  
 2\. PKC 2026 — Florida, U.S.A.  
 1\. School: Introduction to Isogeny-based Cryptography (TSVP-TP25IC) — Okinawa, Japan

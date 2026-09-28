@@ -25,8 +25,8 @@ I am also working on a project about secure multi-party computation (MPC) with [
 6\. INKE: Isogeny-Based PKE Using Intermediate Curves  
    Hyeonhak Kim, **Won Kim**, Changmin Lee, Suhri Kim, Seokhie Hong, Sangjin Lee — Under Review ([paper](https://eprint.iacr.org/2025/1458))
 
-5\. Threshold PRISM Signature Schemes via Graph-Based Threshold Access Structures  
-   Hyeonhak Kim, **Won Kim**, Changmin Lee — Preprint ([paper](https://eprint.iacr.org/2026/945))
+5\. SPRITZ: A Short PRISM-Based Threshold Signature via Zero-Knowledge Proof  
+   Hyeonhak Kim, **Won Kim**, Changmin Lee — Under Review ([paper](https://eprint.iacr.org/2026/945))
 
 4\. Compact Quaternion Algorithms for SQIsign  
    **Won Kim**, Changmin Lee, Hyunwoo Yoo — Preprint ([paper](https://eprint.iacr.org/2026/1031))

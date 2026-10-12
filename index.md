@@ -6,10 +6,10 @@ permalink: /
 Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptography.  
 I am currently researching in [PQSnC Lab](https://pqsnc.korea.ac.kr/), under the supervision of [Changmin Lee](https://scholar.google.co.kr/citations?hl=en&user=jTcNS8cAAAAJ).  
 
-I am also working on a project about secure multi-party computation (MPC) with [Wonseok Choi](https://wonseok-crypto.github.io/).  
+In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am also co-supervised by [Wonseok Choi](https://wonseok-crypto.github.io/).  
 
 ---
-## 💼 Career
+## 🎓 Education
 
 - 2025.03 - Now: Ph.D. at Korea University, Cybersecurity
 - 2019.03 - 2025.02: B.S. at Korea University, Mathematics
@@ -18,9 +18,16 @@ I am also working on a project about secure multi-party computation (MPC) with [
 
 - **Isogeny-based cryptography**
 - Mathematical aspects of post-quantum cryptology
-- Security of e-voting protocols
+- E-voting protocols
+- Security foundations of cryptographic and MPC protocols
 
 ## 📚 Publications {#publications}
+
+8\. Power Analysis on SQIsign via Ideal Reconstruction with Quaternion Leakages  
+   **Won Kim**, Jaeho Jeon, JeongHwan Lee, Suseong Lee, Young-Sik Kim, Changmin Lee — Under Review
+
+7\. SoK: A Unified Framework for Coercion Resistance Analysis of Electronic Voting Protocols  
+   Wonseok Choi, **Won Kim**, Changmin Lee — On Progress
 
 6\. INKE: Isogeny-Based PKE Using Intermediate Curves  
    Hyeonhak Kim, **Won Kim**, Changmin Lee, Suhri Kim, Seokhie Hong, Sangjin Lee — Under Review ([paper](https://eprint.iacr.org/2025/1458))
@@ -53,8 +60,9 @@ I am also working on a project about secure multi-party computation (MPC) with [
 
 ## 🚀 Projects {#projects}
 
-2\. A Study on a Unified Framework for Concrete Security Analysis of Secure Multi-Party Computation: DGIST, 2026.02 - Now  
-1\. Veritas Scholarship Project: Korea University, 2024.06 - 2025.02
+3\. Cryptographic Technologies for Physical AI: A Case Study on Consensus Protocols — Korea University & DGIST, 2026.10 - 2026.12  
+2\. A Study on a Unified Framework for Concrete Security Analysis of Secure Multi-Party Computation — DGIST, 2026.02 - Now  
+1\. Veritas Scholarship Project — Korea University, 2024.06 - 2025.02
 
 ## 🏫 Teaching
 
@@ -69,8 +77,7 @@ I am also working on a project about secure multi-party computation (MPC) with [
 - Isogeny Seminar Korea: 2026.08 - Now
 
 ### Sub-reviewers
-- PKC 2026
-- ISC 2026
+- 2026: PKC, ISC
 
 ## ✈️ Attendence
 

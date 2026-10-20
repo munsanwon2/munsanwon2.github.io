@@ -24,7 +24,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 ## 📚 Publications {#publications}
 
 8\. Power Analysis on SQIsign via Ideal Reconstruction with Quaternion Leakages  
-   **Won Kim**, Jaeho Jeon, JeongHwan Lee, Suseong Lee, Young-Sik Kim, Changmin Lee — Under Review ([paper](https://eprint.iacr.org/2026/2508))
+   **Won Kim**, Jaeho Jeon, JeongHwan Lee, Suseong Lee, Young-Sik Kim, Changmin Lee — Preprint ([paper](https://eprint.iacr.org/2026/2508))
 
 7\. SoK: A Unified Framework for Coercion Resistance Analysis of Electronic Voting Protocols  
    Wonseok Choi, **Won Kim**, Changmin Lee — On Progress
@@ -39,10 +39,10 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
    **Won Kim**, Changmin Lee, Hyunwoo Yoo — Preprint ([paper](https://eprint.iacr.org/2026/1031))
 
 3\. SMART: Small-Modulus Adaptive Recovery Threshold Decryption for Highly Available HSM  
-   **Won Kim**, Changmin Lee, Jeonghwan Lee — Unpublished 
+   JeongHwan Lee, **Won Kim**, Changmin Lee — Unpublished 
 
 2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead  
-   **Won Kim**, Changmin Lee, Jeonghwan Lee, Alain Passelègue, Damien Stehlé — **CRYPTO 2026** ([paper](https://eprint.iacr.org/2026/973))
+   **Won Kim**, Changmin Lee, JeongHwan Lee, Alain Passelègue, Damien Stehlé — **CRYPTO 2026** ([paper](https://eprint.iacr.org/2026/973))
 
 1\. SQIsign with Fixed-Precision Integer Arithmetic  
    **Won Kim**, Jeonghwan Lee, Hyeonhak Kim, Changmin Lee — **PKC 2026**, **Best Paper Award** ([paper](https://eprint.iacr.org/2025/1649))
@@ -67,7 +67,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 ## 🏫 Teaching
 
 - 2026.09 - 2026.12: Modern Cryptography, T.A. at Korea University
-- 2026.09 - 2026.12: Mathematics of Smart Security, T.A. at Korea University  
+- 2026.09 - 2026.12: Mathematics of Smart Security, T.A. at Korea University
 - 2025.09 - 2025.12: Modern Cryptography, T.A. at Korea University
 - 2025.09 - 2025.12: Mathematics of Smart Security, T.A. at Korea University
 

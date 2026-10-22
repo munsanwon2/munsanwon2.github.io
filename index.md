@@ -49,6 +49,8 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 
 ## 🏆 Awards {#awards}
 
+6\. Special Prize — Korean National Cryptology Contest 2026  
+5\. Best Excellent Prize — Korean National Cryptology Contest 2026  
 4\. Best Paper Award — PKC 2026  
 3\. Encouragement Prize — Cryptanalysis Contest 2025  
 2\. Academic Excellence Award — Korea University 2024 2nd Semester  
@@ -56,6 +58,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 
 ## 📢 Talks {#talks}
 
+2\. LongIdealToIsogeny: Translating Large-Norm Quaternion Ideals into Isogeny Chains — Isogenies of Abelian Varieties workshop  
 1\. SQIsign with Fixed-Precision Integer Arithmetic — PKC 2026
 
 ## 🚀 Projects {#projects}

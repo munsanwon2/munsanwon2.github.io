@@ -3,7 +3,7 @@ title: "Won Kim"
 permalink: /
 ---
 
-Hi! I am a Ph.D student at Korea University, working on Isogeny-based Cryptography.  
+Hi! I am a Ph.D. student at Korea University, working on Isogeny-based Cryptography.  
 I am currently researching in [PQSnC Lab](https://pqsnc.korea.ac.kr/), under the supervision of [Changmin Lee](https://scholar.google.co.kr/citations?hl=en&user=jTcNS8cAAAAJ).  
 
 In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am also co-supervised by [Wonseok Choi](https://wonseok-crypto.github.io/).  
@@ -17,7 +17,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 ## 🧠 Research Interests {#research}
 
 - **Isogeny-based cryptography**
-- Mathematical aspects of post-quantum cryptology
+- Mathematical aspects of post-quantum cryptography
 - E-voting protocols
 - Security foundations of cryptographic and MPC protocols
 

@@ -51,9 +51,9 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 
 6\. Special Prize — Korean National Cryptology Contest 2026  
 5\. Best Excellent Prize — Korean National Cryptology Contest 2026  
-4\. Best Paper Award — PKC 2026  
+4\. **Best Paper Award — PKC 2026**  
 3\. Encouragement Prize — Cryptanalysis Contest 2025  
-2\. Academic Excellence Award — Korea University 2024 2nd Semester  
+2\. **Academic Excellence Award — Korea University 2024 2nd Semester**  
 1\. Excellence Prize — Cryptanalysis Contest 2024  
 
 ## 📢 Talks {#talks}

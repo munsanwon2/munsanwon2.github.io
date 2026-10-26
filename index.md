@@ -18,8 +18,8 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 
 - **Isogeny-based cryptography**
 - Mathematical aspects of post-quantum cryptography
-- E-voting protocols
 - Security foundations of cryptographic and MPC protocols
+- E-voting protocols
 
 ## 📚 Publications {#publications}
 

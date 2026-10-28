@@ -27,7 +27,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
    **Won Kim**, Jaeho Jeon, JeongHwan Lee, Suseong Lee, Young-Sik Kim, Changmin Lee — Preprint ([paper](https://eprint.iacr.org/2026/2508))
 
 7\. SoK: A Unified Framework for Coercion Resistance of Electronic Voting Protocols  
-   Wonseok Choi, **Won Kim**, Changmin Lee — On Progress
+   Wonseok Choi, **Won Kim**, Changmin Lee — Under Review
 
 6\. INKE: Isogeny-Based PKE Using Intermediate Curves  
    Hyeonhak Kim, **Won Kim**, Changmin Lee, Suhri Kim, Seokhie Hong, Sangjin Lee — Preprint ([paper](https://eprint.iacr.org/2025/1458))

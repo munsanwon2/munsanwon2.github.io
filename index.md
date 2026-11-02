@@ -39,7 +39,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
    **Won Kim**, Changmin Lee, Hyunwoo Yoo — Preprint ([paper](https://eprint.iacr.org/2026/1031))
 
 3\. SMART: Small-Modulus Adaptive Recovery Threshold Decryption for Highly Available HSM  
-   JeongHwan Lee, **Won Kim**, Changmin Lee — Unpublished 
+   JeongHwan Lee, **Won Kim**, Changmin Lee — Unpublished Manuscript
 
 2\. Asynchronous Lagrange-Based Threshold FHE with Smaller Modulus Overhead  
    **Won Kim**, Changmin Lee, JeongHwan Lee, Alain Passelègue, Damien Stehlé — **CRYPTO 2026** ([paper](https://eprint.iacr.org/2026/973))

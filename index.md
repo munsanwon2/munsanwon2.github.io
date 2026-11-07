@@ -59,7 +59,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 
 ## 📢 Talks {#talks}
 
-3\. Compact Quaternion Algorithms for SQIsign — MathPQC 2026, an affiliated event of Asiacrypt 2026
+3\. Compact Quaternion Algorithms for SQIsign — MathPQC 2026, an affiliated event of Asiacrypt 2026  
 2\. LongIdealToIsogeny: Translating Large-Norm Quaternion Ideals into Isogeny Chains — Isogenies of Abelian Varieties workshop  
 1\. SQIsign with Fixed-Precision Integer Arithmetic — PKC 2026 ([slides]({{ '/assets/slides/1-sqisign-fixed-precision-integer-arithmetic-pkc-2026.pdf' | relative_url }}))
 

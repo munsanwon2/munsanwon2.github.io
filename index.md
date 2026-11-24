@@ -60,7 +60,7 @@ In the field of cryptographic and MPC (Multi-Party Computation) protocols, I am 
 ## 📢 Talks {#talks}
 
 3\. Compact Quaternion Algorithms for SQIsign — MathPQC 2026  
-2\. Can we Thresholdize Module Action? (Lightning Talk) — Isogenies of Abelian Varieties & Applications to Post-Quantum Cryptography  
+2\. Can we Thresholdize Module Action? (Lightning Talk) — Isogenies of Abelian Varieties & Applications to Post-Quantum Cryptography ([slides]({{ '/assets/slides/2-can-we-thresholdize-module-action-epfl-workshop-2026.pdf' | relative_url }}))  
 1\. SQIsign with Fixed-Precision Integer Arithmetic — PKC 2026 ([slides]({{ '/assets/slides/1-sqisign-fixed-precision-integer-arithmetic-pkc-2026.pdf' | relative_url }}))
 
 ## 🚀 Projects {#projects}
